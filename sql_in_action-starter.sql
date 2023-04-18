@@ -127,6 +127,8 @@
 -- What do you think makes a successful AirBnB rental in this market? What factors seem to be at play the most?
 -- Write a few sentences and include them with your project submission in the README file 
 
+-- I beleive that a sucessful AIR BNB ib NYC needs to have a few key traits. I believe it needs to be in a plac like Park slope with not many locations but lots of ratings aa
+-- opposed tp Williamsburg. I also believe that the amount of reviews plays a part due to scams happening frequently.
 
 -- <<<<<<<<<<<<<<<<<<<<< ** BONUS ** >>>>>>>>>>>>>>>>>>>>>>>
 -- Find the the percent above or below each listing is compared to the average price for all listings.
